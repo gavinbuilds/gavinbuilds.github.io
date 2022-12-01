@@ -5,8 +5,11 @@ theme: just-the-docs
 url: https://memrtroll.github.io
 
 #plugins:
- 
+
+# Aux links for the upper right navigation
 aux_links:
   Template Repository: https://github.com/memrtroll/memrtroll.github.io
   Aux Link 2: http://google.com
 aux_links_new_tab: false
+
+logo: "/assets/images/yep (2021_09_23 13_04_28 UTC).png"
