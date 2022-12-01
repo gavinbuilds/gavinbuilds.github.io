@@ -1,8 +1,11 @@
-title: Just the Docs Template
+title: Gavin Yuan
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://memrtroll.github.io
 
+plugins:
+  - jemoji
+ 
 #aux_links:
   #Template Repository: https://github.com/memrtroll/memrtroll.github.io
