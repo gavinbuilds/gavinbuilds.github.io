@@ -20,3 +20,17 @@ back_to_top_text: "Back to top"
 heading_anchors: true
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
