@@ -18,3 +18,5 @@ back_to_top_text: "Back to top"
 #footer_content: "Copiumright &copy; 2022 Gavin Yuan.
 
 heading_anchors: true
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/just-the-docs.png"
