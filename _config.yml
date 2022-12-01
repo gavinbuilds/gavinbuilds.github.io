@@ -12,4 +12,6 @@ aux_links:
   Aux Link 2: http://google.com
 aux_links_new_tab: false
 
-logo: "/assets/images/yep (2021_09_23 13_04_28 UTC).png"
+#logo: "/assets/images/yep (2021_09_23 13_04_28 UTC).png"
+back_to_top: true
+back_to_top_text: "Back to top"
