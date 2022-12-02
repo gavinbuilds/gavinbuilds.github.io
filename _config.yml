@@ -8,8 +8,8 @@ url: https://memrtroll.github.io
 
 # Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/memrtroll/memrtroll.github.io
-  Aux Link 2: http://google.com
+  My Repo: https://github.com/memrtroll/memrtroll.github.io
+  Notion Pages: http://google.com
 aux_links_new_tab: false
 
 back_to_top: true
