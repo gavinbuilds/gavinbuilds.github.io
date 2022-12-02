@@ -1,0 +1,4 @@
+---
+layout: default
+---
+hidden egg
