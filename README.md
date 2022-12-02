@@ -12,7 +12,7 @@ I believe text becomes a header when you enter a space and there is no heading s
 View the [markdown][Index Test].
 
 ## Heading
-----
+
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
