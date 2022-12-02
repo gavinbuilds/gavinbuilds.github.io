@@ -19,8 +19,10 @@ Testing out spacing and creating enough length to see the back to top feature.
 
 {: .note } testing out callouts
 
-{: .warning} Testing out other callouts
-{: .highlight } Testing spacing between callouts
+{: .warning} 
+Testing out other callouts
+{: .highlight } 
+Testing spacing between callouts
 
 space.
 
