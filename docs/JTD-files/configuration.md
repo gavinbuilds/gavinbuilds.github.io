@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Configuration
-Parent: JTD Files
+parent: JTD Files
+nav_order: 1
 ---
 
 # Configuration

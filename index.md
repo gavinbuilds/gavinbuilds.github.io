@@ -37,13 +37,8 @@ space.
 |             |          |
 |             |          |
 
-## Final header?
+## Final header
 
-## Probably note.
-
-## Hopefully this one
-
-## This is like a mental asylum...
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
