@@ -2,13 +2,13 @@ title: Gavin Yuan
 description: Gavin's personal website using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://memrtroll.github.io
+url: https://gavinbuilds.github.io
 
 #plugins:
 
 # Aux links for the upper right navigation
 aux_links:
-  My Repo: https://github.com/memrtroll/memrtroll.github.io
+  My Repo: https://github.com/gavinbuilds/gavinbuilds.github.io
   Notion Pages: http://google.com
 aux_links_new_tab: false
 
