@@ -151,7 +151,7 @@ Just the Docs provides the following custom includes files:
 
 `_includes/toc_heading_custom.html`
 
-If the page has any child pages, and `has_toc` is not set to `false`, this content appears as a heading above the [auto-generating list of child pages]({{ site.baseurl }}{% link docs/navigation-structure.md %}#auto-generating-table-of-contents) after the page's content.
+If the page has any child pages, and `has_toc` is not set to `false`, this content appears as a heading above the [auto-generating list of child pages]({{ site.baseurl }}{% link docs/JTD-files/navigation-structure.md %}#auto-generating-table-of-contents) after the page's content.
 
 #### Example
 {: .no_toc }
