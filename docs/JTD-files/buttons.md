@@ -2,7 +2,7 @@
 layout: default
 title: Buttons
 parent: JTD-files
-
+permalink: /docs/JTD-files/buttons
 nav_order: 2
 ---
 
