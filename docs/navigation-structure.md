@@ -75,7 +75,7 @@ Pages with no `title` are automatically excluded from the main navigation.
 
 ## Pages with children
 
-Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/ui-components` and `./docs/utilities`. This gives us an organization like:
+Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/JTD-files/ui-components` and `./docs/utilities`. This gives us an organization like:
 
 ```
 +-- ..
@@ -121,7 +121,7 @@ has_children: true
 
 ```
 
-Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
+Here we're setting up the UI Components landing page that is available at `/docs/JTD-files/ui-components`, which has children and is ordered second in the main nav.
 
 ### Child pages
 
