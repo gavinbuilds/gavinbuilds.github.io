@@ -88,7 +88,7 @@ Sometimes you will want to create a page with many children (a section). First, 
 |   |   |-- code.md
 |   |   |-- labels.md
 |   |   |-- tables.md
-|   |   +-- typography.md
+|   |   +-- phy.md
 |   |
 |   |-- utilities
 |   |   |-- index.md      (parent page)
