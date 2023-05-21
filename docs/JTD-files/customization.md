@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Customization
-nav_order: 6
+parent: JTD-files
+nav_order: 8
 ---
 
 # Customization
