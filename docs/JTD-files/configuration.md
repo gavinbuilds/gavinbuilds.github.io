@@ -2,8 +2,6 @@
 layout: default
 title: Configuration
 parent: JTD Files
-nav_order: 1
-permalink: /docs/JTD-files/configuration
 ---
 
 # Configuration

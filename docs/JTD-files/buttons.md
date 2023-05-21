@@ -2,7 +2,6 @@
 layout: default
 title: Buttons
 parent: JTD Files
-nav_order: 2
 ---
 
 # Buttons

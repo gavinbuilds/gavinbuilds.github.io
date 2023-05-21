@@ -2,7 +2,6 @@
 layout: default
 title: Typography
 parent: JTD Files
-nav_order: 7
 ---
 
 # Typography Utilities

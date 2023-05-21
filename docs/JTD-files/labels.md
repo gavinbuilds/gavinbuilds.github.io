@@ -2,7 +2,6 @@
 layout: default
 title: Labels
 parent: JTD Files
-nav_order: 3
 ---
 
 # Labels

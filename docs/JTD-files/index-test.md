@@ -2,7 +2,6 @@
 layout: default
 title: Markdown kitchen sink
 parent: JTD Files
-nav_order: 9
 ---
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>

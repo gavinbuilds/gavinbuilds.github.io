@@ -2,7 +2,6 @@
 layout: default
 title: Tables
 parent: JTD Files
-nav_order: 4
 ---
 
 # Tables
