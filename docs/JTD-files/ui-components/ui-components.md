@@ -1,8 +1,9 @@
 ---
 layout: default
 title: UI Components
-nav_order: 3
+nav_order: 2
 has_children: true
+parent: JTD-files
 permalink: /docs/JTD-files/ui-components
 ---
 
