@@ -2,7 +2,8 @@
 layout: default
 title: Callouts
 parent: UI Components
-nav_order: 7
+grand_parent: JTD-files
+nav_order: 6
 ---
 
 # Callouts

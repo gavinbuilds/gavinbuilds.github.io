@@ -2,6 +2,7 @@
 layout: default
 title: Typography
 parent: UI Components
+grand_parent: JTD-files
 nav_order: 1
 ---
 
