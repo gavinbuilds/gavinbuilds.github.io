@@ -72,7 +72,6 @@ mermaid:
   version: "9.1.3"
 ```
 
-See [the Code documentation]({{ site.baseurl }}{% link docs\JTD-files\ui-components\code.md %}#mermaid-diagram-code-blocks) for more configuration options and information.
 
 ## Aux links
 
