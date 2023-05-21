@@ -251,7 +251,7 @@ aux_links:
 
 ## External Navigation Links
 
-To add external links to the navigation, add them to the `nav_external_links` [configuration]({{ site.baseurl }}{% link docs/configuration.md %}) option in your site's `_config.yml` file.
+To add external links to the navigation, add them to the `nav_external_links` [configuration]({{ site.baseurl }}{% link docs/JTD-files/configuration.md %}) option in your site's `_config.yml` file.
 External links will appear in the navigation after the links to ordinary pages, but before any collections.
 
 #### Example
