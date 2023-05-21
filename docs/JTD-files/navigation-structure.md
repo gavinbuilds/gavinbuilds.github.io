@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Navigation Structure
-parent: JTD-files
+parent: JTD Files
 nav_order: 10
 ---
 

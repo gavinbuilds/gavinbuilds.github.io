@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lists
-parent: JTD-files
+parent: JTD Files
 nav_order: 5
 ---
 

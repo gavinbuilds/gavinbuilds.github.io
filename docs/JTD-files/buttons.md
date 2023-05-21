@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Buttons
-parent: JTD-files
+parent: JTD Files
 nav_order: 2
-permalink: /docs/JTD-files/buttons
-
 ---
 
 # Buttons

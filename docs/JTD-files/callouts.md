@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Callouts
-parent: JTD-files
+parent: JTD Files
 nav_order: 6
 ---
 
