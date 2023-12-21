@@ -1,0 +1,12 @@
+---
+layout: default
+title: Resumes
+nav_order: 3
+has_children: true
+permalink: /docs/work
+---
+
+# Work
+
+
+{: .fs-6 .fw-300 }
