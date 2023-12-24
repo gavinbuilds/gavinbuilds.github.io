@@ -1,7 +1,7 @@
 title: Gavin Yuan
 description: Gavin's personal website using the Just the Docs theme!
 theme: just-the-docs
-
+color_scheme: gy
 url: https://gavinbuilds.github.io
 
 #plugins:
@@ -10,7 +10,7 @@ url: https://gavinbuilds.github.io
 aux_links:
   Repo: https://github.com/gavinbuilds/gavinbuilds.github.io
   Notion Pages: http://google.com
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 back_to_top: true
 back_to_top_text: "Back to top"

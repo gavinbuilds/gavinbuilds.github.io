@@ -9,4 +9,5 @@ has_children: false
 
 # Projects
 voron
+![Add Project](../Projects/images/voron/ele1.png)
 {: .fs-6 .fw-300 }

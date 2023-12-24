@@ -6,12 +6,10 @@ nav_order: 1
 ## [](#header-2)About
 I'm a manufacturing engineering student based in Toronto.
 
-*   build machines
-*   3d print stuff
+*   building machines
+*   3d printing
 *   means of production
 *   work in robotics
-
-I play volleyball and watch anime in my spare time.
 
 Feel free to explore this site, its GitHub repo, and my Notion pages.
 
