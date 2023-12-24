@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Resumes
-nav_order: 3
+title: Gallery
+nav_order: 8
 has_children: true
-permalink: /docs/work
+permalink: /docs/pics
 ---
 
-# Work
-
+# Gallery
 
 {: .fs-6 .fw-300 }

@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Gallary
-nav_order: 8
+title: Work
+nav_order: 3
 has_children: true
-permalink: /docs/pics
+permalink: /docs/work
 ---
 
-# Gallary
+# Work
+
 
 {: .fs-6 .fw-300 }
