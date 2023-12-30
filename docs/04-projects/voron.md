@@ -8,6 +8,8 @@ has_children: false
 ---
 
 # Projects
+
 voron
-![Add Project](../Projects/images/voron/ele1.png)
+![Add Project](\images\voron\electronics before.JPEG)
+
 {: .fs-6 .fw-300 }
