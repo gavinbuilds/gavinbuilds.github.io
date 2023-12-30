@@ -3,7 +3,7 @@ description: Gavin's personal website.
 theme: just-the-docs
 color_scheme: gy
 url: https://gavinbuilds.github.io
-
+favicon_ico: "/assets\images\yep.png"
 #plugins:
 
 # Aux links for the upper right navigation
@@ -11,6 +11,8 @@ aux_links:
   Repo: https://github.com/gavinbuilds/gavinbuilds.github.io
   Notion Pages: http://google.com
 aux_links_new_tab: true
+opens_in_new_tab: true
+nav_external_links_new_tab: true
 
 #back_to_top: true
 #back_to_top_text: "Back to top"

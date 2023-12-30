@@ -18,7 +18,7 @@ All the software was written in Python.
 ### Establishing coordinate system
 
 #### ArUco
-![Add Project](../03-work/images/aheadwind/ArUco.png)
+![Generating and identifying an OpenCV ArUco](../03-work/images/aheadwind/ArUco.png)
 ### Calibration sequence
 
 ### Paraview image stacking

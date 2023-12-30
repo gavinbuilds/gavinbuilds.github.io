@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-hidden egg
+egg

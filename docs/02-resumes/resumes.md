@@ -16,6 +16,7 @@ Latest
 
 
 Past
+
 [Summer 2022](https://github.com/gavinbuilds/gavinbuilds.github.io/blob/main/docs/02-resumes/pdfs/Resume_S2022.pdf).
 
 {: .fs-6 .fw-300 }
