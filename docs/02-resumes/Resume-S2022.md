@@ -2,6 +2,7 @@
 layout: default
 parent: Resumes
 title: Summer 2022 Resume
+permalink: /docs/resumes/Resume_S2022
 nav_order: 2
 has_children: false
 
