@@ -11,15 +11,9 @@ I'm a manufacturing engineering student based in Toronto.
 *   means of production
 *   work in robotics
 
+Current thing: Melting furnace design and South Bend 9b lathe restoration - Jan 2024
+
 Feel free to explore this site, its GitHub repo, and my Notion pages.
 
 ## [](#header-2)Quick Links
-[My Current Project]({{site.baseurl}}/).
-
-[WIP -- Fill Later]({{site.baseurl}}/).
-
-[3D Printing]({{site.baseurl}}/).
-
-[Rocketry]({{site.baseurl}}/).
-
-[Personal Development]({{site.baseurl}}/).
+Going to set up labels and search filters for pages. For now, just explore the nav menu.

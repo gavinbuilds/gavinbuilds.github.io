@@ -7,9 +7,16 @@ has_children: false
 
 ---
 
-# Projects
+## [](#header-2)Voron 0.1 - 2021
 
-voron
+### [](#header-3)First Print
 ![Add Project](\images\voron\electronics before.JPEG)
+
+## [](#header-2)0.1 -> 0.2 Conversion - Sept 2023
+
+
+## [](#header-2)Redoing the electronics - Dec 2023
+
+
 
 {: .fs-6 .fw-300 }

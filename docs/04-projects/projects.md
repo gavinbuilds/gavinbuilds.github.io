@@ -6,5 +6,5 @@ has_children: true
 permalink: /docs/projects
 ---
 
-# Projects
+## [](#header-2)Projects
 {: .fs-6 .fw-300 }

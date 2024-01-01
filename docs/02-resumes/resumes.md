@@ -6,16 +6,16 @@ has_children: false
 permalink: /docs/resumes
 ---
 
-# Resumes
+## [](#header-2)Resumes
 
 Here is where I save all my past resumes. The most recent one will be on top.
 
-Latest
+### [](#header-3)Latest
 
 [Summer 2023](https://github.com/gavinbuilds/gavinbuilds.github.io/blob/main/docs/02-resumes/pdfs/Resume_S2023.pdf).
 
 
-Past
+### [](#header-3)Past
 
 [Summer 2022](https://github.com/gavinbuilds/gavinbuilds.github.io/blob/main/docs/02-resumes/pdfs/Resume_S2022.pdf).
 
