@@ -3,7 +3,7 @@ description: Gavin's personal website.
 theme: just-the-docs
 color_scheme: gy
 url: https://gavinbuilds.github.io
-favicon_ico: /assets/images/yep.png
+favicon_ico: "/assets/images/dogemini.png"
 #plugins:
 
 # Aux links for the upper right navigation
