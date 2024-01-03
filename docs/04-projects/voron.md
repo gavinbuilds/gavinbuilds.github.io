@@ -19,10 +19,8 @@ Different kits have different wiring, different hardware, and possibly different
 ## [](#header-2)Redoing the electronics - Dec 2023
 
 ![test](../04-projects/images/voron/electronics-before.jpg)
-<img src="../04-projects/images/voron/electronics-before.jpg" alt="photo" width="100"/>
-
-![test](/04-projects/images/voron/electronics-before.jpg)
-![test](/images/voron/electronics-before.jpg)
-![test](../images/voron/electronics-before.jpg)
-
+<div style="text-align: center;">
+    <img src="../04-projects/images/voron/electronics-before.jpg" width="500"/>
+</div>>
+<img src="../04-projects/images/voron/electronics-before.jpg"  width="500"/>
 {: .fs-6 .fw-300 }
