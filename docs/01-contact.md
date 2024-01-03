@@ -8,8 +8,8 @@ has_children: false
 
 ## [](#header-2)Where you can reach me.
 
-[Twitter]({{https://twitter.com/GavinYuan_}}/).
-[LinkedIn]({{https://www.linkedin.com/in/gavin-yuan/}}/).
+[Twitter]({{https://twitter.com/GavinYuan_}}).
+[LinkedIn]({{https://www.linkedin.com/in/gavin-yuan/}}).
 Email: gavin.yuan@ontariotechu.net
 iMsg: +1 647-201-8395 (Canadian Number)
 
