@@ -18,4 +18,5 @@ With a burst of inspiration, I spent about an hour to get a bare bones CAD going
 
 ### [](#header-3)Extrusions
 Using 4040 extrusions for an easy transition to  my 20mm sized extrusions was the idea. However sourcing 40mm extrusion in Canada seems to be extremely tough...
+
 {: .fs-6 .fw-300 }
