@@ -12,13 +12,17 @@ I started with a Fabreeko kit. It was a pre-order and their first batch. I someh
 Different kits have different wiring, different hardware, and possibly different control boards. It's kinda up to you to build it after ordering everything.
 
 ### [](#header-3)First Print
-![Electronics](../docs/04-projects/images/voron/electronics-before.jpg)
 
 ## [](#header-2)0.1 -> 0.2 Conversion - Sept 2023
 
 
 ## [](#header-2)Redoing the electronics - Dec 2023
 
-![test](../04-projects//images/voron/electronics-before.jpg)
+![test](../04-projects/images/voron/electronics-before.jpg)
+<img src="../04-projects/images/voron/electronics-before.jpg" alt="photo" width="100"/>
+
+![test](/04-projects/images/voron/electronics-before.jpg)
+![test](/images/voron/electronics-before.jpg)
+![test](../images/voron/electronics-before.jpg)
 
 {: .fs-6 .fw-300 }
