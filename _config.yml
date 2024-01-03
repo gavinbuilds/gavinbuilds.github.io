@@ -40,4 +40,5 @@ footer_navigation:
 footer_external_links:
   - label: Contact
     url: docs\01-contact.md
-
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
