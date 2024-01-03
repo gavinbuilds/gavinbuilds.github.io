@@ -17,3 +17,5 @@ Feel free to explore this site, its GitHub repo, and my Notion pages.
 
 ## [](#header-2)Quick Links
 Going to set up labels and search filters for pages. For now, just explore the nav menu.
+![doge](/assets/images/dogemini.png)
+![voron](/docs/04-projects/images/voron/electronics-before.jpg)
