@@ -2,7 +2,7 @@
 layout: default
 title: Startups
 nav_order: 6
-has_children: true
+has_children: False
 permalink: /docs/startups
 ---
 

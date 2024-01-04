@@ -15,5 +15,6 @@ I met Mo through a LinkedIn DM earlier in the year. We had a call and this guy s
 Buildspace is 
 We actually raised about $4000 in donations to build
 
+[Read more about it here]({{site.baseurl}}/docs/startups).
 
 {: .fs-6 .fw-300 }

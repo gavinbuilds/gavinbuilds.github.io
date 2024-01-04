@@ -8,6 +8,7 @@ has_children: false
 
 ## [](#header-2)Where you can reach me.
 I live in Markham/Richmond Hill in Ontario. Hit me up if you want to meet irl!
+
 [Twitter]({{https://twitter.com/GavinYuan_}}).
 
 [LinkedIn]({{https://www.linkedin.com/in/gavin-yuan/}}).

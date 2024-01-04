@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Extracurriculars
+grand_parent: Work
 title: RECTT
 nav_order: 9999
 has_children: False

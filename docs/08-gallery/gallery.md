@@ -2,7 +2,7 @@
 layout: default
 title: Gallery
 nav_order: 9
-has_children: true
+has_children: False
 permalink: /docs/pics
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Personal Development
 nav_order: 7
-has_children: true
+has_children: False
 permalink: /docs/growth
 ---
 
