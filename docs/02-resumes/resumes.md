@@ -11,8 +11,17 @@ permalink: /docs/resumes
 Here is where I save all my past resumes. The most recent one will be on top.
 
 ### [](#header-3)Latest
-<iframe src="../02-resumes/pdfs/Resume_S2023.pdf" style="width: 100%;" frameborder="0"></iframe>
+<iframe src="/pdfs/Resume_S2023.pdf" style="width: 100%;" frameborder="0"></iframe>
+
+test
+
 <iframe src="{{site.baseurl}}/02-resumes/pdfs/Resume_S2023.pdf" style="width: 100%;" frameborder="0"></iframe>
+
+test 2
+<iframe src="https://gavinbuilds.github.io/docs/02-resumes/pdfs/Resume_S2023.pdf" style="width: 100%;" frameborder="0"></iframe>
+
+[View]({{site.baseurl}}/02-resumes/pdfs/Resume_S2023.pdf)
+
 [Summer 2023](https://github.com/gavinbuilds/gavinbuilds.github.io/blob/main/docs/02-resumes/pdfs/Resume_S2023.pdf).
 
 
