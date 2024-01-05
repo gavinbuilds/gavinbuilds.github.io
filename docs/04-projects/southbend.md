@@ -22,4 +22,6 @@ More when I have creative juices...
 It is currently still sitting on the ground in my tool shed (LINK to tool shed page)
 I'm currently disassembling the entire lathe, dunking it in Evaporust, and removing the old paint.
 
+#### Paint
+After doing maybe two or three hours of research, I decided with using Corotech Alkyd Enamel paint by Benjamin Moore.
 {: .fs-6 .fw-300 }

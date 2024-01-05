@@ -7,11 +7,11 @@ permalink: /docs/projects
 ---
 
 ## [](#header-2)Projects
-Please bear with me as I slowly update each project page. I am unable to recall and refine each page well in one sitting. Still working on my writing skills! 
+Please bear with me as I slowly update each project page.
+
 
 ### Here are some that I put more time into:
 
-[Voron](/docs/04-projects/voron.md)
-
-[Voron](/voron.md)
+[Voron 0 Build]({{site.baseurl}}/docs/projects/voron.md)
+[South Bend Lathe 9b Restoration]({{site.baseurl}}/docs/projects/southbend.md)
 {: .fs-6 .fw-300 }

@@ -11,17 +11,19 @@ has_children: false
 This was asbolutely my first attempt at a hardware project. My friend Sigil Wen encouraged me to go and startup with the idea I had been thinking about for a few months: concrete 3d printing for fixing the housing problem.
 [Read more about it here]({{site.baseurl}}/docs/startups).
 
-### [](#header-3)Open Builds Gantry
-![Parts in my garage](path)
+### [](#header-3)Open Builds Gantry - July 2021
+![Parts in my garage](../04-projects/images/concrete/openbuilds-8020.jpg)
+![Parts in my garage](../04-projects/images/concrete/nema23-motors.jpg)
 
 ### [](#header-3)Screw Extruder
-![Extruder](path)
+![Extruder](../04-projects/images/concrete/)
 
 ### [](#header-3)Pressure Fed System
-![Aluminum Tank](path)
+![Aluminum Tank](../04-projects/images/concrete/)
 
-### [](#header-3)More Pictures
-![Picture 1](path)
-![Picture 2](path)
+### [](#header-3)Duet 4 6HC Electronics - August 2021
+I know this is a pricey control board. Yet it was a very open and easy to use option.
+![](../04-projects/images/concrete/duet1.jpg)
+
 
 {: .fs-6 .fw-300 }

@@ -19,6 +19,7 @@ All the software was written in Python.
 
 #### ArUco
 ![Generating and identifying an OpenCV ArUco](../03-work/images/aheadwind/ArUco.png)
+![Generating and identifying an OpenCV ArUco](/images/aheadwind/ArUco.png)
 ### Calibration sequence
 
 ### Paraview image stacking
