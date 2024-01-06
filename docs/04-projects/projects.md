@@ -14,9 +14,8 @@ Please bear with me as I slowly update each project page.
 
 [Voron 0 Build]({{site.baseurl}}/docs/04-projects/voron.html)
 
-[Voron 0 Build](..\04-projects\voron)
-
 [South Bend Lathe 9b Restoration]({{site.baseurl}}/docs/04-projects/southbend.html)
 
+[Microbots]
 
 {: .fs-6 .fw-300 }

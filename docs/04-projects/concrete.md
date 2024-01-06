@@ -1,13 +1,13 @@
 ---
 layout: default
 parent: Projects
-title: Where it all began
+title: Concrete 3D Printer
 nav_order: 9999
 has_children: false
 
 ---
 
-## [](#header-2)Concrete 3D Printer
+## [](#header-2)Where it all began
 This was asbolutely my first attempt at a hardware project. My friend Sigil Wen encouraged me to go and startup with the idea I had been thinking about for a few months: concrete 3d printing for fixing the housing problem.
 [Read more about it here]({{site.baseurl}}/docs/startups).
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Projects
-title: The Tool ShedShop
+title: The Tool Shed Shop
 nav_order: 7000
 has_children: false
 

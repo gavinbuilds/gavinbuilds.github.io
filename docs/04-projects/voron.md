@@ -28,7 +28,8 @@ This printer came with a BTT SKR Mini e3 v2, Raspberry Pi 3b, 24V 150W Meanwell 
 
 ### [](#header-3)First Print
 
-![First Print](../04-projects/images/voron/21-11 first print.gif)
+![First Print](../04-projects/images/voron/21-12 first print.gif)
+
 I ran with a small sample roll of white PLA since I hadn't installed the spool holder yet.
 
 ## [](#header-2)0.1 -> 0.2 Conversion - Sept 2023
@@ -37,16 +38,29 @@ Some of the main changes to 0.2 were the SKR Pico board and the Raspberry Pi Pic
 <div style="text-align: center;">
     <img src="../04-projects/images/voron/23-07 wiring.jpg" width="500"/>
 </div>>
+
 This is what I had after taking the boards off their VHB taped mounts. Also before I had installed the Picobilical mod that replaces all the wiring from the tool head with one big 14 pin cable.
 
 ## [](#header-2)Redoing the electronics - Dec 2023
 I didn't like the DIN rail solution that Voron Design released. It still relied on taping relatively straight to the back acrylic panel. So generally measured out my setup and made a mounting board with an alignment jig.
 
-![](../04-projects/images/voron/23-12 electronics before.jpg)
-
 <div style="text-align: center;">
     <img src="../04-projects/images/voron/23-12 electronics before.jpg" width="500"/>
 </div>>
+
+<div style="text-align: center;">
+    <img src="../04-projects/images/voron/23-12 wire duct closed.jpg" width="500"/>
+    <img src="../04-projects/images/voron/23-12 wire duct opened.jpg" width="500"/>
+</div>>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../04-projects/images/voron/23-12 wire duct opened.jpg" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../04-projects/images/voron/23-12 wire duct closed.jpg" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
 
 
 {: .fs-6 .fw-300 }
