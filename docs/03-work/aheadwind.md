@@ -2,7 +2,7 @@
 layout: default
 parent: Work
 title: Ahead Wind
-nav_order: 1
+nav_order: 9000
 has_children: false
 
 ---

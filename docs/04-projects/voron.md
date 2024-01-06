@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Projects
-title: Voron 0.1 CoreXY Printer
+title: Voron 0.1 CoreXY 3D Printer
 nav_order: 1
 has_children: false
 
@@ -14,24 +14,38 @@ Different kits have different wiring, different hardware, and possibly different
 It's kinda up to you to build it after ordering everything.
 
 ### [](#header-3)Frame
+One interesting thing about the Voron 0 build is pre-loading hex nuts into the t-slots. Since they use 15mm extrusions, small M3 roll in nuts are uncommon. The downside is if you load nuts that end up not being used, they sit and rattle. And if you want to remove them you have to disassemble the frame.
+<div style="text-align: center;">
+    <img src="../04-projects/images/voron/21-11 frame.jpg" width="500"/>
+</div>>
 
 ### [](#header-3)Electronics
-This printer came with a BTT SKR Mini e3 v2, Raspberry Pi 3b, 
+This printer came with a BTT SKR Mini e3 v2, Raspberry Pi 3b, 24V 150W Meanwell PSU, 24V to 5V DCDC Convertor, a typical rocker switch AC inlet, and a bunch more.
+
+<div style="text-align: center;">
+    <img src="../04-projects/images/voron/21-11 wiring.jpg" width="500"/>
+</div>>
 
 ### [](#header-3)First Print
 
+![First Print](../04-projects/images/voron/21-11 first print.gif)
+I ran with a small sample roll of white PLA since I hadn't installed the spool holder yet.
 
 ## [](#header-2)0.1 -> 0.2 Conversion - Sept 2023
-Some of the main changes to 0.2 were the SKR Pico board and the Raspberry Pi Pico or Zero 2 W. I just bought an SKR Pico becaue it had extra fan ports. I had also bought a Picobilical kit from LDO Motors.
+Some of the main changes to 0.2 were the SKR Pico board and the Raspberry Pi Pico or Zero 2 W. I just bought an SKR Pico because it had extra fan ports. I had also bought a Picobilical kit from LDO Motors.
 
+<div style="text-align: center;">
+    <img src="../04-projects/images/voron/23-07 wiring.jpg" width="500"/>
+</div>>
+This is what I had after taking the boards off their VHB taped mounts. Also before I had installed the Picobilical mod that replaces all the wiring from the tool head with one big 14 pin cable.
 
 ## [](#header-2)Redoing the electronics - Dec 2023
 I didn't like the DIN rail solution that Voron Design released. It still relied on taping relatively straight to the back acrylic panel. So generally measured out my setup and made a mounting board with an alignment jig.
 
-![](../04-projects/images/voron/12-23 electronics before.jpg)
+![](../04-projects/images/voron/23-12 electronics before.jpg)
 
 <div style="text-align: center;">
-    <img src="../04-projects/images/voron/12-23 electronics before.jpg" width="500"/>
+    <img src="../04-projects/images/voron/23-12 electronics before.jpg" width="500"/>
 </div>>
 
 
