@@ -9,7 +9,7 @@ permalink: /docs/resumes
 ## [](#header-2)Resumes
 ### [](#header-3)Latest
 
-<iframe src="https://gavinbuilds.github.io/docs/02-resumes/pdfs/Resume_S2023.pdf" style="width: 100%; height: 100%;" frameborder="0"></iframe>
+<iframe src="https://gavinbuilds.github.io/docs/02-resumes/pdfs/Resume_S2023.pdf" style="width: 100%; height: 600;" frameborder="0"></iframe>
 
 [View]({{site.baseurl}}/docs/02-resumes/pdfs/Resume_S2023.pdf)
 
