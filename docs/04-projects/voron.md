@@ -7,6 +7,15 @@ has_children: false
 
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## [](#header-2)Voron 0.1 - November 2021
 I started with a Fabreeko kit. It was a pre-order and their first batch. I kinda bought into the hype. 
 Building a 3d printer with documentation is really not hard. The hard part is smoothing over undocumented problems. 8 times out of 10 you won't have any problems following a guide. But when that guide is not all inclusive, you need to improvise.
@@ -55,11 +64,6 @@ I didn't like the DIN rail solution that Voron Design released. It still relied 
     <img src="../04-projects/images/voron/23-12 electronics before.jpg" width="500"/>
 </div>>
 
-<div style="text-align: center;">
-    <img src="../04-projects/images/voron/23-12 wire duct closed.jpg" width="500"/>
-    <img src="../04-projects/images/voron/23-12 wire duct open.jpg" width="500"/>
-</div>>
-
 <div style="display: flex;">
   <div style="flex: 1; padding: 5px;">
     <img src="../04-projects/images/voron/23-12 wire duct open.jpg" alt="First Image" style="width: 100%;">
@@ -69,5 +73,14 @@ I didn't like the DIN rail solution that Voron Design released. It still relied 
   </div>
 </div>
 
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../04-projects/images/voron/23-12 wire duct closeup.jpg" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../04-projects/images/voron/23-12 back panel.jpg" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
 
+And now... I won't be touching the electronics on this printer unless it blows up :).
 {: .fs-6 .fw-300 }
