@@ -38,7 +38,10 @@ This printer came with a BTT SKR Mini e3 v2, Raspberry Pi 3b, 24V 150W Meanwell 
     <img src="../04-projects/images/voron/21-11 wiring.jpg" width="500"/>
 </div>>
 
+I had a small picture wiring guide from Fabreeko and really just had to wing it myself.
+
 ### [](#header-3)First Print
+Once everything hardware was put together, I followed the [Klipper](https://www.klipper3d.org/Installation.html) and [Voron Design installation guides](https://docs.vorondesign.com/build/).
 
 <div style="text-align: center;">
     <img src="../04-projects/images/voron/21-12 first print.gif" width="500"/>

@@ -8,5 +8,10 @@ permalink: /docs/work
 
 ## [](#header-2)Work
 
+All my school related activities are under [Extracurriculars]({{site.baseurl}}/docs/03-work/extracurriculars.html)
+
+More comprehensive pieces:
+
+[Taiga Robotics]({{site.baseurl}}/docs/03-work/taiga-robotics.html)
 
 {: .fs-6 .fw-300 }
