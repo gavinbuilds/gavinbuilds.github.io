@@ -63,9 +63,14 @@ I also added the Kirigami bed mod. It pretty much replaces the bed made of extru
 ## [](#header-2)Redoing the electronics - Dec 2023
 I didn't like the DIN rail solution that Voron Design released. It still relied on taping relatively straight to the back acrylic panel. So generally measured out my setup and made a mounting board with an alignment jig.
 
-<div style="text-align: center;">
-    <img src="../04-projects/images/voron/23-12 electronics before.jpg" width="500"/>
-</div>>
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../04-projects/images/voron/23-12 e mount.jpg" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../04-projects/images/voron/23-12 wire duct closed.jpg" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 5px;">

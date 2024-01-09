@@ -22,6 +22,8 @@ Some of the work includes:
 
 Note: I did get permission to talk about my work in depth.
 
+---
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -30,6 +32,8 @@ Note: I did get permission to talk about my work in depth.
 1. TOC
 {:toc}
 </details>
+
+---
 
 ## First Contact - November 2022
 We actually met while I was working at the Digital Fabrication Zone as a student consultant. I ran a bunch of SLA prints and helped with a prototype tool head for picking up stacks of carton.
@@ -66,10 +70,48 @@ Many times our silicone wouldn't cure around our blowout channels (features that
 
 
 ## Coffee Bagging 2023
+I was fortunate to have been hre for a completely new client. I was able to experience the entire process of designing, deploying, and dealing with dealing with extra additions for customers.
 
-### The Setup
+The client came to us with a desire to automate the filling of coffee beans in a bag and then seal that bag.
 
-###
+Some hard requirements:
+- as fast as a proficient human, as reliable
+- no spill! keep a clean floor
+- use existing fill and measuring machine
+- use existing bag heat sealing machine
+- be able to atleast do both 340g sized and 1kg sized bags
+- moveable and serviceable for cleaning the floor and tables
+
+Some nice to haves:
+- ability to do the other sizes of bags (5 in total)
+- integrate directly with the logic controller of the filling machine
+- operate off the nearby compressed air line and outlet
+
+
+### Initial Design
+Building on top of our existing robot stand, we started with an adjustable angled slideway that is meant to be parallel to this sheet metal chute on the filling machine. The robot would pick a bag from a box and place it on a mechanism that opens
+
+2 Coln Pictures here.
+
+#### Suction cart
+This cart needed to be able to hold both the large and small bags, so the placement of the suction cups was important. The concern is sagging if the cups are too far apart.
+
+
+#### Sorting Tray
+In order to get a reliable placement on the filling chute, the robot needs to pick the bags at the same spot each time. So an intermediate step before placing it on the chute is to figure out which bag is being picked and grab it at the designated frame.
+
+#### Tool heads
+The tool head design was quite easy since we had a lot of existing tools. For this application, we want a 2 cup design and a 4 cup design. The cup placement is just finding an even application of vacuum to the bag.
+
+#### Manufacturing
+3D Printed parts are in PETG and PETG-CF. Suction cups are custom. We made SLA printed 3/8" air fitting threads to glue into FDM printed parts. 
+
+### First Changes
+Changing up the tool head due to different sized bags and wrinkling due to pressure concentration.
+
+
+
+
 
 
 {: .fs-6 .fw-300 }

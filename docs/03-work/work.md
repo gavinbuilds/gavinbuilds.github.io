@@ -8,7 +8,7 @@ permalink: /docs/work
 
 ## [](#header-2)Work
 
-All my school related activities are under [Extracurriculars]({{site.baseurl}}/docs/03-work/extracurriculars.html)
+School related activities are under [Extracurriculars]({{site.baseurl}}/docs/03-work/extracurriculars.html).
 
 More comprehensive pieces:
 
