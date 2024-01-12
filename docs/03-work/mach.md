@@ -26,21 +26,23 @@ MACH is the liquid rocket engine team at Toronto Metropolitan University. Our en
 ---
 
 ### Ignitor
-When mixing fuel and oxidizer in a combusion chamber, an ignitor is needed to kickstart the combustion.
+When mixing fuel and oxidizer in a combusion chamber, an ignitor is needed to kickstart the combustion. I was involved in many design revisions, iterations, manufacturing, and testing.
+[pic]()
 
 ### Thrust Stand
-
+I designed the base of the steel stand that mounts the engine, propellant stand, blast shield, and tanks. It was a simple weldments design in Solidworks.
+[pic]()
 
 ### Printed mounts 
-Valve mounts, camera mounts.
+Valves, camera, actuators, pressur gauges, random stuff I had to CAD and 3d print.
 
 ### Injector plate
-The injector plate is a disk containing the fuel and oxidizer inlets with a job to effectively mix them in the chamber.
+The injector plate is a disk containing the fuel and oxidizer inlets with a job to effectively mix them in the chamber. I took on the initial CAD of the part.
 
 ## Launch Canada - August 2023
-Driving up to Timmins, about 800km North of Toronto to attempt an engine hot fire.
+Driving up to Timmins, about 800km North of Toronto to attempt an engine hot fire. 
 
 ## Successful Engine Hot Fire - November 2023
-
+Helped setup and pack the assembly. Solved some in-situ issues.
 
 {: .fs-6 .fw-300 }

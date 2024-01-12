@@ -42,6 +42,6 @@ Another project I was involved with was creating the earliest versions of the di
 
 I was able to plot in Paraview gcode points that were parsed and extracted into a csv. This gave a point cloud of each point where the 3d printer accepts a new G1 (move) command. The hope was to reconstruct the gcode toolpath in the same place to compute differences between scans and inputted gcode.
 
-
-
+### OpenGL
+Explored OpenGL for rendering inside our own slicer. It was way outside my ability so I dropped it quite early.
 {: .fs-6 .fw-300 }

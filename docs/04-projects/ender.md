@@ -27,7 +27,7 @@ I had spent 8+ iterations to get a mounting plate going. Which I regret doing.
 ![Mount Iterations](path)
 
 
-### [](#header-3)Front Electronics Enclosure - 2023
+### [](#header-3)Front Electronics Enclosure - October 2023
 It was time to put the raspberry pi somewhere nicer. I didn't like the USB cable sticking out and I was still powering it with a separate power cable...
 Now the setup has a 24v to 5v DC-DC converter to power the pi (I stole this from my Voron 0.1(LINK) when I upgraded)
 ![Front 1](path)
