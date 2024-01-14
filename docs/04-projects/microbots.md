@@ -7,9 +7,9 @@ has_children: false
 
 ---
 
-## [](#header-2)What is it
+## [](#header-2)1mm Micro Robots! - July:October 2023
 
-[Read more about it here]({{site.baseurl}}/docs/startups).
+[Read more about my learnings here]({{site.baseurl}}/docs/startups).
 
 ### [](#header-3)EFAB
 

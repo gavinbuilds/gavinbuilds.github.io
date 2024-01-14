@@ -33,7 +33,7 @@ Now the setup has a 24v to 5v DC-DC converter to power the pi (I stole this from
 ![Front 1](path)
 ![Front 2](path)
 
-### [](#header-3)Side PSU - 2023
+### [](#header-3)Side PSU - December 2023
 Because of the electronics enclosure I made, I had to extend the main power cable from the PSU. While I was at it, I figured I might as well make it nicer so I quickly modified the stock PSU mount to sit on the side so it doesn't stick out the back; making the footprint smaller. The reason I had the PSU sticking out was because of my dual screw upgrade before.
 ![Picture 1](path)
 ![Picture 2](path)

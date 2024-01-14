@@ -121,7 +121,7 @@ A spring keeps the paddle in an open state and resets it every cycle. This was a
 The paddle is actuated by moving the box so that large quarter circle part is what converts that linear motion from moving the box to rotational for closing the flap.
 
 
-## Silicone Suction Cups - 202
+## Silicone Suction Cups - January 2023
 It was a shocker to learn that the industry was charging over $50 for a shitty little injection molded suction cup. So instead, we made a manual injection mold setup so we could make our own custom suction cup on demand.
 
 
@@ -150,8 +150,10 @@ We did try out the infamous Siraya Tech BLU resin. It smelled like Mountain Dew 
 ### Resin Off-gassing
 Many times our silicone wouldn't cure around our blowout channels (features that relieve pressure while resin printing). The problem was caused by the off-gassing of the resin. If you smell a cured resin print, sometimes there is a faint smell. Because resin prints are typically cured on the surface, the resin isn't completely cured. This is hard to avoid. We tried our best and let resin prints sit in the sun for a few hours. Even curing for 20 minutes in a typical UV curing station was not enough. The resin actually desired heat from the sun.
 
+### A syringe tool for silicone injection - May 2023
+We found that pressing the syringe head too fast would punch the air through the nozzle and create huge bubbles. We made a tool and are selling it. It uses a screw like shape to evacuate the air in the syringe rather than having a full seal. This way the head can push down straight to the silicone instead of hitting the intermediate air trapped inside.
 
-## Coffee Bagging - February 2023
+## Coffee Bagging - February:July 2023
 I was fortunate to have been hre for a completely new client. I was able to experience the entire process of designing, deploying, and dealing with dealing with extra additions for customers.
 
 The client came to us with a desire to automate the filling of coffee beans in a bag and then seal that bag.
@@ -192,8 +194,10 @@ The tool head design was quite easy since we had a lot of existing tools. For th
 Changing up the tool head due to different sized bags and wrinkling due to pressure concentration.
 
 
+### Piston actuated cart - July 2023
+This used a pneumatic cylinder to lift the cart as the same speed as the robot to prevent the cart from sagging and pulling down the back face of the bag.
 
-
+## Baking tray gripper - November 2023
 
 
 {: .fs-6 .fw-300 }

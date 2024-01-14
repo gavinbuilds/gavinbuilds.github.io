@@ -22,3 +22,17 @@ Double photo
 </div>
 
 NOTE: photo file type is CAP sensitive. Compatible formats are pretty much only .jpg .png
+
+---
+
+Linking other pages
+[text]({{site.baseurl}}/docs/permalink)
+[text]({{site.baseurl}}/docs/permalink.html) this one is if there is no permalink for the page
+
+Back to top button
+
+
+Headers I like
+
+Headers that dont show on TOC.
+

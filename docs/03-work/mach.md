@@ -24,9 +24,11 @@ MACH is the liquid rocket engine team at Toronto Metropolitan University. Our en
 </details>
 
 ---
+### Propellent stand rebuild - March 2023
+Our propellant stand, named Spender since he spends all our money, needed to be rebuilt because it was just poorly done before. We upgraded from 1010 imperial extrusion to 3030 metric.
 
 ### Ignitor
-When mixing fuel and oxidizer in a combusion chamber, an ignitor is needed to kickstart the combustion. I was involved in many design revisions, iterations, manufacturing, and testing.
+When mixing fuel and oxidizer in a combusion chamber, an ignitor is needed to kickstart the combustion. I was involved in many design revisions, iterations, manufacturing, and testing. 
 [pic]()
 
 ### Thrust Stand
