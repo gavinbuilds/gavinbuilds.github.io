@@ -20,7 +20,7 @@ Some of the work includes:
 - running FDM and SLA prints
 - maintaining the printer and debugging defects/artifacts
 
-Note: I did get permission to talk about my work in depth.
+Note: I did get permission to talk about my work in depth and feel free to ask me about any of these projects!
 
 ---
 
@@ -36,10 +36,92 @@ Note: I did get permission to talk about my work in depth.
 ---
 
 ## First Contact - November 2022
-We actually met while I was working at the Digital Fabrication Zone as a student consultant. I ran a bunch of SLA prints and helped with a prototype tool head for picking up stacks of carton.
+We actually met while I was working at the Digital Fabrication Zone as a student consultant. I ran a bunch of SLA prints and helped with a prototype some tool heads. After my time at the DFZ was over, they reached out and offered to hire me part time.
+
+### First Projects
+For the first projects, I worked at the prototyper and then Ilija helped me wrap up a final design that is goes to customer. I learned a lot about designing for maintenance, safety, and a bit of aesthetics.
+
+#### Carton stack picker
+Ideas to test:
+- pulling a vacuum through the sides of the card stack
+- sharp wedge that doesn't displace cards
+- what different sizes and geometries of carton can it pick
+
+Requirements:
+- enter from a specific side of the stack (different per carton design) as the carton is palletized in a certain way
+- clearance to progress through dozens of tight stacks
+- be able to pick a feasable volume to be a competitive automation solution
+- be able to place the stack in different orientations and travel across entirety of robot range of motion
+- no additional controls other than pneumatic valve actuation that is already in the robot stack
+
+##### Flat plane vacuum effect
+So I was shown a video where a stack of cards were lifted only by pulling a vacuum through the sides of cards. I worked to make a tool to test that to see how feasible it was and what gimmicks the interaction has. The tool looks bulky because it was designed to be used with existing robot tool mounting with our typical ring magnet.
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 plane effect.png" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 handheld vac.png" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
+
+I learned that the vacuum will travel in all directions of the plane at the same speed and will escape at the shortest path. Quite obvious but not something easy to think of immediately when going from a square card to a net shape of carton boxes with a bunch of tabs. Other behaviours to note were needing support atleast past the center of gravity of the carton, in the case where vacuum leaked too early it peeled starting from the cantilevered edge.
 
 
-## Silicon Suction Cups - 202
+##### Wedge Designs and Testing
+Agreeing that the novel approach was not going to work, I worked on a forklift method. Resin prints in the vertical orientation can actually produce quite sharp edges. I was able to wiggle the wedge underneath a sufficient number of cards (>20mm) without disturbing cards above or below it in the stack.
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 carton test 1.png" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 carton test CAD.png" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
+
+Since I was going to test several wedge geometries, I decided to include a dovetail in the tool head so that I can just swap out different wedges. These were all resin printed on my Photon Mono and Taiga's Photon M3 Plus.
+
+##### The resulting tool
+With a successful demo of the tool, worked on a pneumatic actuated clamp to go alongside the wedge so that the robot is able to maneuver in all 6 degrees without worry of the cards falling off.
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 resulting tool.png" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 resulting tool section.png" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
+
+FDM printed body and only the blue part which is an SLA printed piston. Molykote and a tuned sliding fit is actually quite airtight :). There is a linear rod and bushing in the back of that photo for stiffness and a hard stop.
+
+#### Box packaging paddle axle redesign
+The axle was very loose and flimsy on the current box packaging machine. The job of this piece was the press down the back facing flap. There is a dull blade that presses the front flap down and two angled bars that press down the side flaps. Then a pneumatic cylinder shoots the box through to be packaged.
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 test.png" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 final.png" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
+A spring keeps the paddle in an open state and resets it every cycle. This was a mini project and I just worked with existing parts like the existing sheet metal paddle, springs, shoulder bolt, and bushings.
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 motion 1.png" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/first-projects/22-11 motion.png" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
+The paddle is actuated by moving the box so that large quarter circle part is what converts that linear motion from moving the box to rotational for closing the flap.
+
+
+## Silicone Suction Cups - 202
 It was a shocker to learn that the industry was charging over $50 for a shitty little injection molded suction cup. So instead, we made a manual injection mold setup so we could make our own custom suction cup on demand.
 
 
@@ -69,7 +151,7 @@ We did try out the infamous Siraya Tech BLU resin. It smelled like Mountain Dew 
 Many times our silicone wouldn't cure around our blowout channels (features that relieve pressure while resin printing). The problem was caused by the off-gassing of the resin. If you smell a cured resin print, sometimes there is a faint smell. Because resin prints are typically cured on the surface, the resin isn't completely cured. This is hard to avoid. We tried our best and let resin prints sit in the sun for a few hours. Even curing for 20 minutes in a typical UV curing station was not enough. The resin actually desired heat from the sun.
 
 
-## Coffee Bagging 2023
+## Coffee Bagging - February 2023
 I was fortunate to have been hre for a completely new client. I was able to experience the entire process of designing, deploying, and dealing with dealing with extra additions for customers.
 
 The client came to us with a desire to automate the filling of coffee beans in a bag and then seal that bag.
