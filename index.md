@@ -21,6 +21,7 @@ These are ones that I put a bit more time into or are completed pages.
 
 [My Projects]({{site.baseurl}}/docs/04-projects/)
 
-[Voron 0 3D Printer Build]({{site.baseurl}}/docs/04-projects/voron.html)
+[Taiga Robotics]({{site.baseurl}}/docs/03-work/taiga-robotics.html)
 
+[Voron 0 3D Printer Build]({{site.baseurl}}/docs/04-projects/voron.html)
 

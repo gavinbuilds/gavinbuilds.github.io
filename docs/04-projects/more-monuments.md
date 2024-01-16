@@ -13,7 +13,7 @@ I met Mo through a LinkedIn DM earlier in the year. We had a call and this guy s
 
 ### [](#header-3)Night's and Weekends S2 by Buildspace
 Buildspace is 
-We actually raised about $4000 in donations to build
+We actually raised about $4000 in donations to build a 2oft statue of the Colossus.
 
 [Read more about my learnings]({{site.baseurl}}/docs/startups).
 

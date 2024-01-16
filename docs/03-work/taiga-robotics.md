@@ -198,6 +198,11 @@ Changing up the tool head due to different sized bags and wrinkling due to press
 This used a pneumatic cylinder to lift the cart as the same speed as the robot to prevent the cart from sagging and pulling down the back face of the bag.
 
 ## Baking tray gripper - November 2023
+The scope of this project is to design a compact gripper to help the xArm pick up typical baking trays for somthing like taking cookies out of the oven. These trays are huge and crazy to hold at one edge, which was what we are setting out to do.
 
 
+## Telescopic Actuator - January 2024
+A job required our robot to reach into deep bins that are obviously outside of the robot's 750mm reach. Then place them on a conveyor belt.
+
+As usual, pneumatic, 3d printed, lightweight, cheap are the goals.
 {: .fs-6 .fw-300 }

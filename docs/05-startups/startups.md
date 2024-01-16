@@ -16,7 +16,7 @@ A fun research based project that didn't find much application.
 [2023 - MoreMonuments]({{site.baseurl}}/).
 Worked with Mo Mahmood for a few months attempting to build a statue in San Francisco.
 
-[2022 - AuthEngine]({{site.baseurl}}/).
+[May/June 2022 - AuthEngine]({{site.baseurl}}/).
 This was a SaaS startup. My friend Alex developed an api and library that enables OAuth in just a few lines of code. 
 
 [2021 - Canin3D]({{site.baseurl}}/).
