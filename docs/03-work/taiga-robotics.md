@@ -35,7 +35,7 @@ Note: I did get permission to talk about my work in depth and feel free to ask m
 
 ---
 
-## First Contact - November 2022
+### First Contact - November 2022
 We actually met while I was working at the Digital Fabrication Zone as a student consultant. I ran a bunch of SLA prints and helped with a prototype some tool heads. After my time at the DFZ was over, they reached out and offered to hire me part time.
 
 ### First Projects
@@ -139,19 +139,55 @@ We used a two part silicone with a 10:1 A:B ratio. Experimented with Tin based a
 
 
 ### SLA Printed Molds 
-Turns out the surface finish on resin prints are great enough to create airtight fits. Then that surface is imprinted by your mold into your part. So this is the perfect application for resin printing; low volume injection molds. I didn't design the first suction cup mold but I did modify it to create several other cup designs. I gained a general intuition of gates from this.
+The surface finish on resin prints are surprisingly good enough to create airtight fits. Then that surface is imprinted by your mold into your part. So this is the perfect application for resin printing; low volume injection molds. I didn't design the first suction cup mold but I did modify it to create several other cup designs. I gained a general intuition of gates from this.
 
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 first set.jpg" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 cad.jpg" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 result prior.jpg" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 result.jpg" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
 
 ### Different Resins
 We primarily use Siraya Tech resins. They have the best printability and mechanical properties. We liked using a translucent resin for our molds so that we can visually see how much is filled up. Not actually that useful but nice to see.
 We did try out the infamous Siraya Tech BLU resin. It smelled like Mountain Dew and was insanely viscous. It's recommended to print while heated but we didn't have the resin heating band setup.
 
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 smokey warping.jpg" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 smokey warping 1.jpg" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
 
 ### Resin Off-gassing
-Many times our silicone wouldn't cure around our blowout channels (features that relieve pressure while resin printing). The problem was caused by the off-gassing of the resin. If you smell a cured resin print, sometimes there is a faint smell. Because resin prints are typically cured on the surface, the resin isn't completely cured. This is hard to avoid. We tried our best and let resin prints sit in the sun for a few hours. Even curing for 20 minutes in a typical UV curing station was not enough. The resin actually desired heat from the sun.
+Many times our silicone wouldn't cure around our blowout channels (features that relieve pressure while resin printing). The problem was caused by the off-gassing of the resin. If you smell a cured resin print, sometimes there is a faint smell. Because resin prints are typically cured on the surface, the resin isn't completely cured. This is hard to avoid. We tried our best and let resin prints sit in the sun for a few hours. Even curing for 20 minutes in a typical UV curing station was not enough. The resin actually desired the heat from the sun.
+
 
 ### A syringe tool for silicone injection - May 2023
 We found that pressing the syringe head too fast would punch the air through the nozzle and create huge bubbles. We made a tool and are selling it. It uses a screw like shape to evacuate the air in the syringe rather than having a full seal. This way the head can push down straight to the silicone instead of hitting the intermediate air trapped inside.
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 vacuum.jpg" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 injection.jpg" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
+
 
 ## Coffee Bagging - February:July 2023
 I was fortunate to have been hre for a completely new client. I was able to experience the entire process of designing, deploying, and dealing with dealing with extra additions for customers.
@@ -184,6 +220,10 @@ This cart needed to be able to hold both the large and small bags, so the placem
 #### Sorting Tray
 In order to get a reliable placement on the filling chute, the robot needs to pick the bags at the same spot each time. So an intermediate step before placing it on the chute is to figure out which bag is being picked and grab it at the designated frame.
 
+<div style="text-align: center;">
+    <img src="../03-work/images/taiga-robotics/bagging/23-02 tray.jpg" width="500"/>
+</div>>
+
 #### Tool heads
 The tool head design was quite easy since we had a lot of existing tools. For this application, we want a 2 cup design and a 4 cup design. The cup placement is just finding an even application of vacuum to the bag.
 
@@ -196,6 +236,18 @@ Changing up the tool head due to different sized bags and wrinkling due to press
 
 ### Piston actuated cart - July 2023
 This used a pneumatic cylinder to lift the cart as the same speed as the robot to prevent the cart from sagging and pulling down the back face of the bag.
+
+### Elongated Suction Cup
+Since we had the capability to make custom suction cups, I made a long suction cup in order to eliminate the behaviour of a bag creasing in between our strong suction cups.
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 eclair cad.png" alt="First Image" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-05 eclair.jpg" alt="Second Image" style="width: 100%;">
+  </div>
+</div>
 
 ## Baking tray gripper - November 2023
 The scope of this project is to design a compact gripper to help the xArm pick up typical baking trays for somthing like taking cookies out of the oven. These trays are huge and crazy to hold at one edge, which was what we are setting out to do.

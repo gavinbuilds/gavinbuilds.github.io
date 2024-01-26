@@ -14,7 +14,6 @@ I live in Markham/Richmond Hill in Ontario. Hit me up if you want to meet irl!
 [LinkedIn](https://www.linkedin.com/in/gavin-yuan/).
 
 Email: gavin.yuan@ontariotechu.net
-(I'll share my personal once we've met :))
 
 iMsg: +1 647-201-8395 (Canadian Number)
 
