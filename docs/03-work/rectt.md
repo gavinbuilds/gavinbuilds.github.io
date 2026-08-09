@@ -1,10 +1,12 @@
 ---
-layout: default
-parent: Extracurriculars
-grand_parent: Work
+layout: detail
 title: RECTT
-nav_order: 9999
-has_children: False
+section: extracurriculars
+order: 20
+subtitle: Superstructures and steering
+summary: >
+  Researched a snow-evacuating brake actuated by a pneumatic cylinder, and
+  helped build the rack-and-pinion steering system.
 
 ---
 

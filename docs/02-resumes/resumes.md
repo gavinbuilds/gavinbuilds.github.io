@@ -1,21 +1,15 @@
 ---
-layout: default
-title: Resumes
-nav_order: 3
-has_children: false
-permalink: /docs/resumes
+layout: page
+title: Resume
+section_index: resume
+permalink: /resume/
+intro: I keep the old ones up because I like seeing the growth.
 ---
 
-## [](#header-2)Resumes
-### [](#header-3)Latest
+<iframe src="{{ '/docs/02-resumes/pdfs/Resume_S2023.pdf' | relative_url }}" style="width: 100%; height: 640px; border: 1px solid var(--border); border-radius: var(--radius);" title="Resume, Summer 2023"></iframe>
 
-<iframe src="https://gavinbuilds.github.io/docs/02-resumes/pdfs/Resume_S2023.pdf" style="width: 100%; height: 600px;" frameborder="0"></iframe>
+[Open the PDF]({{ '/docs/02-resumes/pdfs/Resume_S2023.pdf' | relative_url }})
 
-[View]({{site.baseurl}}/docs/02-resumes/pdfs/Resume_S2023.pdf)
+## Past
 
-### [](#header-3)Past
-I have my past resumes here because I like seeing growth. It's also to share the journey to those I might inspire.
-
-[Summer 2022]({{site.baseurl}}/docs/02-resumes/pdfs/Resume_S2022.pdf).
-
-{: .fs-6 .fw-300 }
+[Summer 2022]({{ '/docs/02-resumes/pdfs/Resume_S2022.pdf' | relative_url }})

@@ -1,14 +1,17 @@
 ---
-layout: default
-parent: Projects
+layout: detail
 title: Cartesian Tables
-nav_order: 8000
-has_children: false
+section: projects
+order: 50
+subtitle: A plasma table from leftover parts
+summary: >
+  Wanted a waterjet, priced an intensifier pump, and settled on plasma. A
+  3'x4' working area so I could buy 4x8 sheets and cut them on a support table.
 
 ---
 
 ## [](#header-2)December 2022
-I wanted to something with the parts leftover from the [concrete printer build](). I got really into the usefulness and precision of a waterjet cutter. After doing a lot of research, making a decent cutter would be very expensive - an intensifier pump being a few thousand dollars on Alibaba. So I settled on building a plasma cutter; the torch being the most expensive part of the build. 
+I wanted to something with the parts leftover from the [concrete printer build]({{ '/docs/04-projects/concrete.html' | relative_url }}). I got really into the usefulness and precision of a waterjet cutter. After doing a lot of research, making a decent cutter would be very expensive - an intensifier pump being a few thousand dollars on Alibaba. So I settled on building a plasma cutter; the torch being the most expensive part of the build. 
 I put my research into a [Notion page](https://gavinyuan.notion.site/Project-Plasma-Table-87d515ab125a42c89168fa6dc87ecdd8?pvs=4).
 
 ### [](#header-3)CAD

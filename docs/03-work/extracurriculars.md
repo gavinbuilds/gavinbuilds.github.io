@@ -1,9 +1,14 @@
 ---
-layout: default
-parent: Work
-title: Extracurriculars 
-nav_order: 1
-has_children: True
+layout: cards
+title: Extracurriculars
+section: work
+section_index: extracurriculars
+list_section: extracurriculars
+order: 40
+subtitle: School teams — rockets and snowmobiles
+summary: >
+  Two university design teams: a liquid rocket engine at TMU and a
+  snowmobile superstructures and steering group.
 
 ---
 

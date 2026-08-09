@@ -1,9 +1,12 @@
 ---
-layout: default
-parent: Projects
+layout: detail
 title: The Tool Shed Shop
-nav_order: 7000
-has_children: false
+section: projects
+order: 80
+subtitle: Building the space the machines live in
+summary: >
+  Somewhere to put the chop saw. Cleaning out the house tools, building the
+  lathe table, and stripping the lathe down for restoration.
 
 ---
 

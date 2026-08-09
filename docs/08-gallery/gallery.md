@@ -1,12 +1,9 @@
 ---
-layout: default
+layout: page
 title: Gallery
-nav_order: 9
-has_children: False
-permalink: /docs/pics
+permalink: /gallery/
 ---
 
-# Gallery
 This page is going to link to photo albums? I'm not sure yet. I definitely want somewhere to put concurrent and past media.
 
 {: .fs-6 .fw-300 }

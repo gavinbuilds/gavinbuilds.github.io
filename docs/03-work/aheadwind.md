@@ -1,9 +1,14 @@
 ---
-layout: default
-parent: Work
+layout: detail
 title: Ahead Wind
-nav_order: 9000
-has_children: false
+section: work
+order: 30
+featured: true
+subtitle: My first few hundred lines of shipped code
+summary: >
+  A pre-seed 3D printing software startup in Denver. Met them through Twitter,
+  got flown down to work out of the startup house, and ended up deep in
+  ArUco/OpenCV coordinate work, Paraview, and OpenGL.
 
 ---
 

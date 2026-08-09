@@ -1,13 +1,14 @@
 ---
-layout: default
+layout: detail
 title: Personal Development
-nav_order: 7
-has_children: False
-permalink: /docs/growth
+section: notes
+order: 10
+permalink: /notes/growth/
+subtitle: Numbers I'm trying to move
+summary: >
+  Links and stats that track progress rather than finished work — typing speed,
+  lifts, and whatever else I'm measuring.
 ---
-
-# Personal Development
-I think this page is going to justs contain links to stuff that contain my progress and growth. This differentiates it from the writing section.
 
 [Improving my typing](https://gavinyuan.notion.site/Typing-Faster-1454950842ef457d99845924f2d12cd3).
 

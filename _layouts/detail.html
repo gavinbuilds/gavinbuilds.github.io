@@ -1,0 +1,25 @@
+---
+layout: base
+---
+{%- assign parent = site.pages | where: "section_index", page.section | first %}
+{%- if parent %}
+<a class="back-link" href="{{ parent.url | relative_url }}">← {{ parent.title }}</a>
+{%- endif %}
+
+<header class="page-head">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {%- if page.subtitle %}
+  <p class="subtitle">{{ page.subtitle }}</p>
+  {%- endif %}
+  {%- if page.summary %}
+  <p class="page-intro">{{ page.summary | strip_newlines | strip }}</p>
+  {%- endif %}
+</header>
+
+<div class="prose">
+  {%- comment -%}
+    Content images are authored in markdown/inline HTML, so defer them here at
+    build time rather than editing every page. Matters most on the build logs.
+  {%- endcomment -%}
+  {{ content | replace: '<img ', '<img loading="lazy" decoding="async" ' }}
+</div>

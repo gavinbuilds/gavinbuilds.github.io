@@ -1,9 +1,13 @@
 ---
-layout: default
-parent: Projects
+layout: detail
 title: Microbots
-nav_order: 7000
-has_children: false
+section: projects
+order: 30
+subtitle: One-millimetre robots by electrochemical fabrication
+summary: >
+  Started after a Lex Fridman episode with Neil Gershenfeld on self-replicating
+  machines. How do you manufacture a robot one millimetre on a side? Selective
+  electrodeposition, layer by layer — and a repeatable Z stage to do it.
 
 ---
 
@@ -20,7 +24,7 @@ With some spare parts I quickly made a stand with an z leadscrew motor to get ac
 WIP
 
 
-[Read more about my learnings here]({{site.baseurl}}/docs/startups).
+[Read more about my learnings here]({{ '/startups/' | relative_url }}).
 
 
 

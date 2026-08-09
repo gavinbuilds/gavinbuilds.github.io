@@ -1,9 +1,14 @@
 ---
-layout: default
-parent: Projects
+layout: detail
 title: Voron 0.1 CoreXY 3D Printer
-nav_order: 1
-has_children: false
+section: projects
+order: 10
+featured: true
+subtitle: A kit build, and everything the guide left out
+summary: >
+  Built from a first-batch Fabreeko kit. Building a printer with documentation
+  isn't hard — the hard part is smoothing over the undocumented problems. Full
+  build log from frame to first print.
 
 ---
 

@@ -1,13 +1,9 @@
 ---
-layout: default
+layout: page
 title: Contact
-nav_order: 2
-has_children: false
-
+permalink: /contact/
+intro: I live in Markham/Richmond Hill, Ontario. Hit me up if you want to meet in real life.
 ---
-
-## [](#header-2)Where you can reach me.
-I live in Markham/Richmond Hill in Ontario. Hit me up if you want to meet irl!
 
 [Twitter](https://twitter.com/GavinYuan_).
 

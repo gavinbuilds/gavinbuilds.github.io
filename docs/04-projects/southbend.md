@@ -1,9 +1,14 @@
 ---
-layout: default
-parent: Projects
+layout: detail
 title: South Bend Lathe Model B
-nav_order: 7000
-has_children: false
+section: projects
+order: 20
+featured: true
+subtitle: A 1200 dollar Facebook find, driven home in a sedan
+summary: >
+  Drove to Lake Erie to buy a South Bend 9b that barely fit in the car. Built a
+  rigid steel table for it, then stripped the whole machine down to Evaporust
+  and bare metal.
 
 ---
 

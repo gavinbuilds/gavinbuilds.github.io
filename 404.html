@@ -1,11 +1,8 @@
 ---
-layout: default
-title: 404
-permalink: /404
-nav_exclude: true
-search_exclude: true
+layout: page
+title: Page not found
+permalink: /404.html
+intro: That page doesn't exist. It may have moved when the site was rebuilt.
 ---
 
-<h1>Page not found</h1>
-
-<p>The page you requested could not be found. Try using the navigation {% if site.search_enabled != false %}or search {% endif %}to find what you're looking for.</p>
+<p>Try <a href="{{ '/projects/' | relative_url }}">Projects</a>, <a href="{{ '/work/' | relative_url }}">Work</a>, or head <a href="{{ '/' | relative_url }}">home</a>.</p>

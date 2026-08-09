@@ -1,0 +1,21 @@
+---
+layout: base
+---
+<header class="page-head">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {%- if page.intro %}
+  <p class="page-intro">{{ page.intro }}</p>
+  {%- endif %}
+</header>
+
+{%- if content != "" %}
+<div class="prose">{{ content }}</div>
+{%- endif %}
+
+{%- assign list = page.list_section | default: page.section_index %}
+{%- assign items = site.pages | where: "section", list | sort: "order" %}
+<div class="card-list">
+  {%- for item in items %}
+    {%- include card.html item=item %}
+  {%- endfor %}
+</div>

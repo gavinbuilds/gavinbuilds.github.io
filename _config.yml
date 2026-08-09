@@ -1,41 +1,36 @@
 title: Gavin Yuan
-description: Gavin's personal website.
-theme: just-the-docs
-color_scheme: gy
+tagline: Manufacturing engineering student in Toronto.
+description: Manufacturing engineering student in Toronto. I build machines and figure out how things are made.
 url: https://gavinbuilds.github.io
-favicon_ico: "/assets/images/dogemini.png"
-#plugins:
+baseurl: ""
 
-# Aux links for the upper right navigation
-aux_links:
-  Repo: https://github.com/gavinbuilds/gavinbuilds.github.io
-  Notion Pages: http://google.com
-aux_links_new_tab: true
-opens_in_new_tab: true
-nav_external_links_new_tab: true
+author:
+  name: Gavin Yuan
+  email: gavin.yuan@ontariotechu.net
 
-#back_to_top: true
-#back_to_top_text: "Back to top"
+social:
+  github: https://github.com/gavinbuilds
+  twitter: https://twitter.com/gavinbuilds
+  linkedin: https://www.linkedin.com/in/gavinyuan
 
-heading_anchors: true
+favicon: "/assets/images/dogemini.png"
 
-callouts_level: quiet # or loud
-callouts:
-  highlight:
-    color: yellow
-  new:
-    title: New
-    color: green
-  note:
-    title: Note
-    color: purple
-  warning:
-    title: Warning
-    color: red
+sass:
+  style: compressed
+  sass_dir: _sass
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-footer_external_links:
-  - label: Contact
-    url: docs\01-contact.md
-last_edit_timestamp: true
-last_edit_time_format: "%b %e %Y at %I:%M %p"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
+  - .deepwork
+  - .context
+  - .conductor
+  - node_modules

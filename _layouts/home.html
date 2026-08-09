@@ -1,5 +1,48 @@
 ---
-layout: default
+layout: base
 ---
+<section class="hero">
+  <h1 class="hero__headline">{{ page.headline }}</h1>
+  {%- if page.bio %}
+  <p class="hero__bio">{{ page.bio }}</p>
+  {%- endif %}
 
-{{ content }}
+  {%- if page.focus %}
+  <div class="meta-row">
+    <div class="meta-row__label">Focus</div>
+    <ul class="focus-list">
+      {%- for f in page.focus %}
+      <li>{{ f }}</li>
+      {%- endfor %}
+    </ul>
+  </div>
+  {%- endif %}
+
+  {%- if page.background %}
+  <div class="meta-row">
+    <div class="meta-row__label">Background</div>
+    <p class="meta-row__value">{{ page.background }}</p>
+  </div>
+  {%- endif %}
+
+  {%- if page.studying %}
+  <div class="meta-row">
+    <div class="meta-row__label">Studying</div>
+    <p class="meta-row__value">{{ page.studying }}</p>
+  </div>
+  {%- endif %}
+</section>
+
+{%- assign featured = site.pages | where: "featured", true | sort: "order" %}
+{%- if featured.size > 0 %}
+<h2 class="section-title">Featured</h2>
+<div class="card-list">
+  {%- for item in featured %}
+    {%- include card.html item=item %}
+  {%- endfor %}
+</div>
+{%- endif %}
+
+{%- if content != "" %}
+<div class="prose">{{ content }}</div>
+{%- endif %}

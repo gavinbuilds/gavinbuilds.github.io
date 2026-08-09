@@ -1,0 +1,26 @@
+<div class="modal" id="contact" role="dialog" aria-modal="true" aria-labelledby="contact-title" hidden>
+  <div class="modal__panel">
+    <h2 class="modal__title" id="contact-title">Get in touch</h2>
+    <p class="modal__intro">Email is the surest way to reach me.</p>
+
+    <div class="contact-row">
+      <span class="contact-row__label">Email</span>
+      <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+    </div>
+    <div class="contact-row">
+      <span class="contact-row__label">Based in</span>
+      <span>Markham / Richmond Hill, ON</span>
+    </div>
+    {%- for item in site.data.nav.external -%}
+    <div class="contact-row">
+      <span class="contact-row__label">{{ item.label }}</span>
+      <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.url | remove: "https://" | remove: "www." }}</a>
+    </div>
+    {%- endfor -%}
+
+    <div class="modal__actions">
+      <button type="button" class="btn" data-contact-close>Close</button>
+      <a class="btn btn--primary" href="mailto:{{ site.author.email }}">Send an email</a>
+    </div>
+  </div>
+</div>

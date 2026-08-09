@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: page
+title: egg
+permalink: /egg/
+sitemap: false
 ---
 egg
 

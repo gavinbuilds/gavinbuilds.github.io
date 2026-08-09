@@ -1,0 +1,52 @@
+# Sidebar navigation.
+#   key   - keyboard shortcut shown in the badge
+#   match - highlights the item when a page declares `section:` or
+#           `section_index:` with this value (so detail pages stay highlighted)
+primary:
+  - label: Home
+    url: /
+    icon: "◉"
+    key: "1"
+    match: home
+  - label: Projects
+    url: /projects/
+    icon: "◈"
+    key: "2"
+    match: projects
+  - label: Work
+    url: /work/
+    icon: "▤"
+    key: "3"
+    match: work
+  - label: Resume
+    url: /resume/
+    icon: "❡"
+    key: "4"
+    match: resume
+
+groups:
+  - title: More
+    items:
+      - label: Startups
+        url: /startups/
+        icon: "⊕"
+        key: "5"
+        match: startups
+      - label: Notes
+        url: /notes/
+        icon: "∞"
+        key: "6"
+        match: notes
+
+contact:
+  label: Contact
+  icon: "✉"
+  key: "/"
+
+external:
+  - label: GitHub
+    url: https://github.com/gavinbuilds
+  - label: Twitter
+    url: https://twitter.com/gavinbuilds
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/gavinyuan

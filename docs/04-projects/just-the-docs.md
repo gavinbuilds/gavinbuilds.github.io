@@ -1,9 +1,12 @@
 ---
-layout: default
-parent: Projects
+layout: detail
 title: This Website
-nav_order: 9999
-has_children: false
+section: projects
+order: 90
+subtitle: Ideas and inspiration for the site itself
+summary: >
+  A running list of what I want this site to become — photo galleries, better
+  link previews, timestamps, and a table of contents that behaves.
 
 ---
 

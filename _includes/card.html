@@ -1,0 +1,12 @@
+{%- comment -%}
+  Renders one card. Expects `item` — a page with title, subtitle, summary.
+{%- endcomment -%}
+<a class="card reveal" href="{{ item.url | relative_url }}">
+  <h3 class="card__title">{{ item.title }}</h3>
+  {%- if item.subtitle %}
+  <p class="card__subtitle">{{ item.subtitle }}</p>
+  {%- endif %}
+  {%- if item.summary %}
+  <p class="card__summary">{{ item.summary | strip_newlines | strip }}</p>
+  {%- endif %}
+</a>

@@ -1,9 +1,14 @@
 ---
-layout: default
-parent: Work
+layout: detail
 title: Taiga Robotics
-nav_order: 1000
-has_children: false
+section: work
+order: 10
+featured: true
+subtitle: Automation for small and mid-sized manufacturers
+summary: >
+  Carton pickers, silicone suction-cup injection molding, coffee bagging
+  automation, a baking-tray gripper, and a telescopic actuator — building
+  robotic cells for shops that had never automated anything.
 
 ---
 
@@ -146,7 +151,7 @@ The surface finish on resin prints are surprisingly good enough to create airtig
     <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 first set.jpg" alt="First Image" style="width: 100%;">
   </div>
   <div style="flex: 1; padding: 5px;">
-    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 cad.jpg" alt="Second Image" style="width: 100%;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 cad.png" alt="Second Image" style="width: 100%;">
   </div>
 </div>
 
@@ -221,7 +226,7 @@ This cart needed to be able to hold both the large and small bags, so the placem
 In order to get a reliable placement on the filling chute, the robot needs to pick the bags at the same spot each time. So an intermediate step before placing it on the chute is to figure out which bag is being picked and grab it at the designated frame.
 
 <div style="text-align: center;">
-    <img src="../03-work/images/taiga-robotics/bagging/23-02 tray.jpg" width="500"/>
+    <img src="../03-work/images/taiga-robotics/bagging/23-02 sorting tray.jpg" width="500"/>
 </div>>
 
 #### Tool heads
@@ -242,7 +247,7 @@ Since we had the capability to make custom suction cups, I made a long suction c
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 5px;">
-    <img src="../03-work/images/taiga-robotics/silicone-cup/23-01 eclair cad.png" alt="First Image" style="width: 100%;">
+    <img src="../03-work/images/taiga-robotics/silicone-cup/23-05 eclair cad.png" alt="First Image" style="width: 100%;">
   </div>
   <div style="flex: 1; padding: 5px;">
     <img src="../03-work/images/taiga-robotics/silicone-cup/23-05 eclair.jpg" alt="Second Image" style="width: 100%;">

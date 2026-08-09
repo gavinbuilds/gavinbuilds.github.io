@@ -1,9 +1,13 @@
 ---
-layout: default
-parent: Work
+layout: detail
 title: AACE Precision Machining
-nav_order: 8000
-has_children: false
+section: work
+order: 20
+subtitle: Learning the trade in a two-person mill shop
+summary: >
+  I read Starrett's Book for Student Machinists, then cold-called and walked
+  into machine shops until one hired me. Six months of CNC milling at a shop
+  small enough that you learn everything.
 
 ---
 

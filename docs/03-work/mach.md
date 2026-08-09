@@ -1,10 +1,11 @@
 ---
-layout: default
-parent: Extracurriculars
-grand_parent: Work
+layout: detail
 title: MACH
-nav_order: 1
-has_children: False
+section: extracurriculars
+order: 10
+subtitle: Liquid rocket engine team at TMU
+summary: >
+  Firing liquid ethanol and nitrous oxide. September 2022 to September 2023.
 
 ---
 
@@ -29,11 +30,9 @@ Our propellant stand, named Spender since he spends all our money, needed to be 
 
 ### Ignitor
 When mixing fuel and oxidizer in a combusion chamber, an ignitor is needed to kickstart the combustion. I was involved in many design revisions, iterations, manufacturing, and testing. 
-[pic]()
 
 ### Thrust Stand
 I designed the base of the steel stand that mounts the engine, propellant stand, blast shield, and tanks. It was a simple weldments design in Solidworks.
-[pic]()
 
 ### Printed mounts 
 Valves, camera, actuators, pressur gauges, random stuff I had to CAD and 3d print.
